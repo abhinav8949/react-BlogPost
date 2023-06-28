@@ -1,0 +1,22 @@
+.not-found{
+   position: fixed;
+   top: 0; 
+   width: 100vw;
+   height: 100vh;
+   background-color: white;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.nav_color{
+   background-color: rgb(141, 225, 141);
+}
+
+.dash_color{
+   background-color: rgb(255, 240, 123);
+}
+
+.border_style{
+   border-style: dashed;
+}
